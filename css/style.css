@@ -21,7 +21,7 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: rgba(145, 142, 142, 0.85);
 }
 
 h1, h2 {
@@ -56,7 +56,7 @@ p {
 }
 
 a {
-  color: black;
+  color: rgb(45, 24, 161);
   text-decoration: none;
 }
 
